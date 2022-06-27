@@ -12,7 +12,7 @@ license: mit
 
 Specifically, this model is a *bert-large-cased* model that was fine-tuned on the English version of the standard [CoNLL-2003 Named Entity Recognition](https://www.aclweb.org/anthology/W03-0419.pdf) dataset. 
 
-If you'd like to use a smaller BERT-large model fine-tuned on the same dataset, a [**bert-base-NER**](https://huggingface.co/dslim/bert-base-NER/) version is also available. 
+If you'd like to use a smaller BERT model fine-tuned on the same dataset, a [**bert-base-NER**](https://huggingface.co/dslim/bert-base-NER/) version is also available. 
 
 
 ## Intended uses & limitations

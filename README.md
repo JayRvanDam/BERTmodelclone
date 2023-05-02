@@ -36,7 +36,7 @@ model-index:
       value: 0.5085050463676453
       verified: true
 ---
-# bert-base-NER
+# bert-large-NER
 
 ## Model description
 
